@@ -26,5 +26,14 @@
     "@types/node": "^16.6.1",
     "@types/sequelize": "^4.28.10",
     "@types/validator": "^13.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunofsabino/autentificacao.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/brunofsabino/autentificacao/issues"
+  },
+  "homepage": "https://github.com/brunofsabino/autentificacao#readme"
 }
